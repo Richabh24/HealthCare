@@ -1,0 +1,17 @@
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/util/CustomErrorType.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/configuration/JpaConfiguration.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/model/User.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/service/UserServiceImpl.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/repositories/ExaminationRepository.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/service/UserService.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/controller/RestApiController.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/service/InstitutionService.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/service/ExaminationServiceImpl.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/model/Examination.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/model/Institution.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/service/ExaminationService.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/controller/AppController.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/repositories/InstitutionRepository.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/HealthCare.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/service/InstitutionServiceImpl.java
+/home/richa/Testproject/HeathCare/src/main/java/com/springapp/repositories/UserRepository.java

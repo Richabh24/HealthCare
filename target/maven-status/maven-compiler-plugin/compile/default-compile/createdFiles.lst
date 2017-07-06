@@ -1,0 +1,17 @@
+com/springapp/service/ExaminationService.class
+com/springapp/service/InstitutionServiceImpl.class
+com/springapp/service/ExaminationServiceImpl.class
+com/springapp/service/InstitutionService.class
+com/springapp/service/UserServiceImpl.class
+com/springapp/repositories/UserRepository.class
+com/springapp/repositories/InstitutionRepository.class
+com/springapp/controller/AppController.class
+com/springapp/configuration/JpaConfiguration.class
+com/springapp/service/UserService.class
+com/springapp/HealthCare.class
+com/springapp/util/CustomErrorType.class
+com/springapp/controller/RestApiController.class
+com/springapp/repositories/ExaminationRepository.class
+com/springapp/model/User.class
+com/springapp/model/Examination.class
+com/springapp/model/Institution.class
